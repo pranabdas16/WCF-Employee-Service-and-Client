@@ -1,0 +1,10 @@
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb

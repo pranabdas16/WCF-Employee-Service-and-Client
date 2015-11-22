@@ -1,0 +1,16 @@
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+G:\Practice\WCF\WCF2\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache

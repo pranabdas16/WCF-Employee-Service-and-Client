@@ -1,0 +1,10 @@
+G:\Practice\WCF\WCF-datacontract-and-datamember\Client\Client\Client\bin\Client.dll
+G:\Practice\WCF\WCF-datacontract-and-datamember\Client\Client\Client\bin\Client.pdb
+G:\Practice\WCF\WCF-datacontract-and-datamember\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\Practice\WCF\WCF-datacontract-and-datamember\Client\Client\Client\obj\Debug\Client.dll
+G:\Practice\WCF\WCF-datacontract-and-datamember\Client\Client\Client\obj\Debug\Client.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\Client\Client\bin\Client.dll
+G:\Practice\WCF\WCF-Employee-Service-and-Client\Client\Client\bin\Client.pdb
+G:\Practice\WCF\WCF-Employee-Service-and-Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\Practice\WCF\WCF-Employee-Service-and-Client\Client\Client\obj\Debug\Client.dll
+G:\Practice\WCF\WCF-Employee-Service-and-Client\Client\Client\obj\Debug\Client.pdb
